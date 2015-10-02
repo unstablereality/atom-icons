@@ -1,0 +1,34 @@
+{
+  "name": "atom-icons",
+  "main": "index",
+  "version": "0.8.0",
+  "description": "A collection of file icons from various glyph fonts.",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.99.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unstablereality/atom-icons"
+  },
+  "readme": "# Atom Icons\n\nA collection of file icons from various glyph fonts.  Based off of [Seti-UI](https://github.com/jesseweed/seti-ui) and [file-icons](https://github.com/DanBrooker/file-icons).\n\n## Fonts\nContains fonts from the following\n* [FontMfizz](http://mfizz.com/oss/font-mfizz)(`.mf`)\n* [Icomoon](http://icomoon.io)(`.iconmoon`)\n* [Octicons](https://octicons.github.com/)(`.octicons`)\n\n### Installation\n\n```\ncd ~/.atom/packages\ngit clone\nhttps://github.com/unstablereality/atom-icons --depth=1\n```\n\n### Currently Supported File Icons\n* Bower\n* Coffescript\n* CSS\n* EJS\n* Favicon\n* Go\n* Grunt\n* Gulp\n* Handlebars\n* HTML\n* Image\n* Jade\n* Javascript\n* JSON\n* Julia\n* Less\n* LICENSE\n* Markdown\n* Mustache\n* PHP\n* PERL\n* Procfile\n* Python\n* React\n* Ruby\n* Sass\n* Shell, Bash, and ZSH\n* Stache\n* Stylus\n* Text\n* Typescript\n* XML\n* YML\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/unstablereality/atom-icons/issues"
+  },
+  "homepage": "https://github.com/unstablereality/atom-icons#readme",
+  "_id": "atom-icons@0.8.0",
+  "_shasum": "19794b34af58cc7e1121a33f38b88ab9e96d3ba9",
+  "_resolved": "file:..\\d-11591-5832-1jagcr8\\package.tgz",
+  "_from": "..\\d-11591-5832-1jagcr8\\package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
